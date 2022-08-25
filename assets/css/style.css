@@ -38,3 +38,15 @@ body {
 .axisTitle {
   font-size: 15px;
 }
+.tooltip {
+  position: absolute;
+  width: 100px;
+  height: 50px;
+  padding: 5px;
+  font: 11px sans-serif;
+  text-align: center;
+  color: white;
+  background: black;
+  border: 0;
+  border-radius: 10px;
+}
