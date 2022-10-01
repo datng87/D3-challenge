@@ -6,4 +6,4 @@ The purpose is to use D3 to demonstrate the ability to build a personal customis
 
 We can see there are some correlation between Poverty and lack of healthcare, or correlation between obesity and household Income...
 
-Visit https://datng87.github.io/D3-challenge/ for a live demo website. 
+Visit https://datng87.github.io/customised-interactive-chart-with-D3/ for a live demo website. 
